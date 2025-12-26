@@ -104,7 +104,19 @@ The dataset contains the following key tables and columns:
 
 ---
 
-## 👤 Author
+## 🤝 Contribution
+Contributions, suggestions, and improvements are welcome.
+
+---
+
+## 👩‍💻 Author
 **Lata Devi**  
-Data Analytics & Power BI Enthusiast  
+Data Analyst | Power BI | Data Visualization
+
+---
+
+## 📄 License
+This project is intended for educational and analytical purposes only.
+
+
 
