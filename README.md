@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (2020–2022) – Power BI Project
+# 📊 Sales Dashboard (2020–2022) 
 
 ## 📌 Project Overview
 This project is an **interactive Sales Dashboard** built using **Microsoft Power BI**, covering sales data from **2020 to 2022**.  
